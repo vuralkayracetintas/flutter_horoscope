@@ -6,8 +6,8 @@ Text and ElevatedButton usage
 
 
 
-- [Youtube Video : ](https://docs.flutter.dev/get-started/codelab)
-- [Linkedin](https://docs.flutter.dev/cookbook)
+- [Youtube Video](https://www.youtube.com/watch?v=r5cUVzdO1f8)
+- [Linkedin](https://www.linkedin.com/in/vural-kayra-%C3%A7etinta%C5%9F-19a108204/)
 
 
 [online documentation](https://docs.flutter.dev/), 
